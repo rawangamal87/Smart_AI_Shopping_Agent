@@ -43,8 +43,13 @@ This project is an AI-powered shopping agent that helps users find the best prod
 - Market research for specific product categories (e.g., tablets, electronics). [file:1]  
 - Educational demo of multi-agent AI workflows for search, scraping, and reporting. [file:1]
 
+
 ## Future Improvements
 
 - Support more countries and e-commerce websites. [file:1]  
 - Add dashboards and charts directly into the HTML report. [file:1]  
 - Integrate more LLM models and smarter ranking logic. [file:1]
+
+## Background
+
+This project was originally developed as part of a hands-on AI agents workshop that I delivered as a speaker at an ITI event in Damanhour. During the workshop, I walked participants through building a multi-agent AI shopping assistant that generates search queries, scrapes structured product data from e-commerce websites, and creates a professional HTML procurement report using Bootstrap. The notebook in this repository is the same one used live in the workshop. [file:1]
